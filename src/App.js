@@ -24,7 +24,7 @@ function App() {
         >
           ZEIT Now
         </a>
-      Kevin's changes
+      Kevin's change
       </h2>
       <p>
         <a
